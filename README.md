@@ -4,4 +4,6 @@ In this code, I designed a pure CSS component, that simulate the effect of IOS l
 The main trick here, is to use a thick, transparent ridge outline, behind the backdrop blur filter and inside the card, to distort the light behind the card. 
 Not 100% liquid glass, but it is lightweight and no need to write JS file to manipulate pixels.
 
+![A video of overview from a pure CSS liquid glass.](https://i.imgur.com/zMgy8F0.mp4)
+
 Support and share, it can get a lot better :)
